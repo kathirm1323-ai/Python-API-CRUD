@@ -14,7 +14,7 @@
       ┌────────────┼────────────┐
       ↓            ↓            ↓
      GET          POST         PUT
-  (Retrieve)     (Create)     (Update)
+    (Retrieve)   (Create)     (Update)
                    │
                    ↓
                   PATCH
